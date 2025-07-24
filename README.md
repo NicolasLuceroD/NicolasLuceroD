@@ -1,7 +1,7 @@
 ## Hi, I'm Nicolas Lucero 👋
 
 # 💫 About Me:
-🎯 I’m currently working on freelance projects, building custom management systems for small businesses using technologies like React, Node.js, and MySQL.
+🎯 I’m currently working on freelance projects, building custom management systems for small businesses using technologies like React, Node.js, and MySQL.<br>
 👥 I’m interested in collaborating on web development projects, business-oriented applications, or initiatives that create value for the community..<br>
 
 
